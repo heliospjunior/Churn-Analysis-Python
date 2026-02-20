@@ -1,9 +1,9 @@
-#Telco Customer Churn Analysis
+# Telco Customer Churn Analysis
 
-##Análise Estratégica de Retenção com Foco Comercial
+## Análise Estratégica de Retenção com Foco Comercial
 
 
-###📌 **Contexto de Negócio:**
+### 📌 **Contexto de Negócio:**
 
 Empresas com modelo de receita recorrente dependem fortemente da retenção de clientes para manter crescimento sustentável.
 
@@ -12,7 +12,7 @@ Pequenas variações na taxa de churn podem gerar impactos significativos na rec
 Este projeto simula um cenário de análise comercial focado em retenção de clientes, inspirado em empresas de serviços recorrentes como de assinaturas.
 
 
-###🎯 **Objetivos:**
+### 🎯 **Objetivos:**
 
 * Identificar fatores associados ao churn
 
@@ -24,7 +24,7 @@ Este projeto simula um cenário de análise comercial focado em retenção de cl
 
 
 
-###🛠️ **Tecnologias Utilizadas:**
+### 🛠️ **Tecnologias Utilizadas:**
 
 * Python
 
@@ -36,7 +36,7 @@ Este projeto simula um cenário de análise comercial focado em retenção de cl
 
 
 
-###📈 **Principais Métricas Gerais:**
+### 📈 **Principais Métricas Gerais:**
 
 * Taxa geral de churn: 26,58%
 
@@ -46,7 +46,7 @@ Este projeto simula um cenário de análise comercial focado em retenção de cl
 
 
 
-###🔎 **Principais Insights**
+### 🔎 **Principais Insights**
 
 **1️) Tipo de Contrato**
 
@@ -90,7 +90,7 @@ Retenção de clientes premium no primeiro ano deve ser prioridade comercial.
 
 
 
-###💰 Impacto Financeiro
+### 💰 Impacto Financeiro
 
 A concentração do churn em clientes de alto ticket indica que:
 
@@ -101,7 +101,7 @@ A concentração do churn em clientes de alto ticket indica que:
 
 
 
-###🎯 Perfil Prioritário de Retenção
+### 🎯 Perfil Prioritário de Retenção
 
 Com base na análise exploratória, o perfil de maior risco identificado foi:
 
